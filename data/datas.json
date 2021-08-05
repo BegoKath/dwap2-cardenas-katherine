@@ -1,0 +1,17 @@
+[
+    {
+        "url":"/assets/images/4.jpg",
+        "product": "Sanduches",
+        "price": 3.50
+    },
+    {
+        "url":"/assets/images/5.jpg",
+        "product": "Batidos",
+        "price": 2.50
+    },
+    {
+        "url":"/assets/images/6.png",
+        "product": "Mocaccino",
+        "price": 4.50
+    }
+]
